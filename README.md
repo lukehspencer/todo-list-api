@@ -4,7 +4,7 @@
 RESTFUL API that implements user authentication and todo list management to help people stay organized with their tasks.
 
 ## Overview
-Built an API using Flask that logs in a user and allows them access to their todo list. User and todo list information are stored in seperate databases created using flask_sqlalchemy. 
+Built an API using Flask and Python that logs in a user and allows them access to their todo list. User and todo list information are stored in seperate databases created using flask_sqlalchemy. 
 
 ## Functionality
 - User must create an accounts with a username and password to access their todo lists
