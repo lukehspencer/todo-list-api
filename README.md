@@ -13,7 +13,7 @@ Built an API using Flask that logs in a user and allows them access to their tod
 - User can update the title and/or description of a specific item
 - User can delete a specific item and/or all items in their todo list
 
-## Files
+## Files & Folders
 - `main.py` - Implements RESTFUL API with CRUD operations
 - `models.py` - Creates user and todo models for SQLAlchemy databases
 - `test.py` - Test API functionality
