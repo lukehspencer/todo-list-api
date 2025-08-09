@@ -1,5 +1,5 @@
 # Todo List API
-*Project completed: March 2025*
+*Mar 2025*
 
 API in Python that implements user authentication and todo list management to help people stay organized with their tasks.
 
